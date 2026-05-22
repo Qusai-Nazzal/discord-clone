@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "1779385032954gcl3c",
+    "username": "testuser_8715",
+    "password": "$2a$10$y9U499/cpsIe.etjSXEQlOCOD/8phDFA9w76HgsCh9JrvGBXs1qWC",
+    "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=testuser_8715",
+    "createdAt": "2026-05-21T17:37:12.954Z"
+  },
+  {
+    "_id": "1779385043685dzqrm",
+    "username": "testuser_3768",
+    "password": "$2a$10$z8M2UAzwxKmzzqkWOjE.ZepNR/gimlpIJgdGDj1WQPB4cKYpaElwe",
+    "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=testuser_3768",
+    "createdAt": "2026-05-21T17:37:23.685Z"
+  },
+  {
+    "_id": "1779385327574gd066",
+    "username": "Qusai Nazzal",
+    "password": "$2a$10$P1W9qCEZpDsYqJPPg0Ham.a0YAsKdwA2gkAPtzmxz/Rd/aGOJa1lO",
+    "avatar": "https://api.dicebear.com/7.x/identicon/svg?seed=Qusai%20Nazzal",
+    "createdAt": "2026-05-21T17:42:07.574Z"
+  }
+]

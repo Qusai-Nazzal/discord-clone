@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "1779385344533tzyhr",
+    "sender": "1779385327574gd066",
+    "channel": "17793850437840nn7q",
+    "content": "hello",
+    "createdAt": "2026-05-21T17:42:24.533Z"
+  },
+  {
+    "_id": "1779385371319w7sm7",
+    "sender": "1779385327574gd066",
+    "channel": "17793850437840nn7q",
+    "content": "hi",
+    "createdAt": "2026-05-21T17:42:51.319Z"
+  },
+  {
+    "_id": "17793853752015y0ub",
+    "sender": "1779385327574gd066",
+    "channel": "17793850437840nn7q",
+    "content": "hi",
+    "createdAt": "2026-05-21T17:42:55.201Z"
+  },
+  {
+    "_id": "1779385384561zbyvt",
+    "sender": "1779385327574gd066",
+    "channel": "17793850437840nn7q",
+    "content": "okay",
+    "createdAt": "2026-05-21T17:43:04.561Z"
+  },
+  {
+    "_id": "17793854004204nqfz",
+    "sender": "1779385327574gd066",
+    "channel": "17793850437840nn7q",
+    "content": "how are you",
+    "createdAt": "2026-05-21T17:43:20.420Z"
+  },
+  {
+    "_id": "17793854080239tzl8",
+    "sender": "1779385327574gd066",
+    "channel": "17793850437840nn7q",
+    "content": "fine thank you",
+    "createdAt": "2026-05-21T17:43:28.023Z"
+  }
+]

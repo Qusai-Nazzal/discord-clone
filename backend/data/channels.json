@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "17793850437840nn7q",
+    "name": "general",
+    "description": "The general discussion channel.",
+    "createdAt": "2026-05-21T17:37:23.784Z"
+  },
+  {
+    "_id": "1779385043791xqzko",
+    "name": "gaming",
+    "description": "Gamer zone",
+    "creator": "1779385043685dzqrm",
+    "createdAt": "2026-05-21T17:37:23.791Z"
+  }
+]
